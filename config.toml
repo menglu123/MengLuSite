@@ -1,5 +1,5 @@
 # Global settings
-baseURL = 'https://wurining.github.io/MengLuSite'
+baseURL = 'https://menglu123.github.io/MengLuSite'
 languageCode = 'en-us'
 uglyurls = false
 title = 'Meng Lu (Ivan) - Resume'
