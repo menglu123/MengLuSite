@@ -1,4 +1,4 @@
-# Global settings
+# Global settings fixed
 baseURL = 'https://menglu123.github.io/MengLuSite'
 languageCode = 'en-us'
 uglyurls = false
